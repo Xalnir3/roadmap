@@ -1,0 +1,42 @@
+.Cv-page {
+    width: 756px;
+    height: 980px;
+    border: solid;
+    background-color:#ffffff;
+    border-radius: 3px;
+}
+.page-top-break {
+    background-color: black;
+    margin-top: 55px;
+    margin-right: 130px;
+    margin-left: 30px;
+    padding-top: 3px;
+    border: none;
+}
+.text {
+    margin-left: 30px;
+    font-family:'Afacad Flux';
+    font-weight: 500;
+}
+.First-second-name {
+    margin-top: 15px;
+    font-size: 40px;
+    margin-bottom: -15px;
+}
+.titles{
+    color:#17922e;
+    margin-top: 20px;
+    font-size: 21px;
+    margin-bottom: 5px;
+}
+.text-information{
+    font-size: 21px;
+}
+.titles-Education-Experience{
+    color: #1870c1;
+    font-size: 21px;
+}
+.list-achievements{
+    padding-left: 25px;
+    margin-top: 10px;
+}
